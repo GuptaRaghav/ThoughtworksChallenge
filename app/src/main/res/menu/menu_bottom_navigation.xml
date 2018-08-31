@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_list"
+        android:title="@string/menu_list"
+        android:icon="@drawable/ic_view_list_black" />
+    <item android:id="@+id/menu_sort"
+        android:title="@string/menu_sort"
+        android:icon="@drawable/ic_sort_black" />
+    <item android:id="@+id/menu_filter"
+        android:title="@string/menu_filter"
+        android:icon="@drawable/ic_filter_list_black" />
+</menu>
