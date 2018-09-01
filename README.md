@@ -140,4 +140,4 @@ Developed this app in Thoughtworks hackathon
    }
    ]
    ``` 
-7. [APK](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/search.gif)
+7. [APK](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/Demo.apk)
