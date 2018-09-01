@@ -1,11 +1,21 @@
 # ThoughtworksChallenge
 Developed this app in Thoughtworks hackathon 
 
-1. First tab is list all kind of beer available 
+1. First tab lists all kind of beer available and sorting is done alphabetically
+
+ ![Alt Text](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/sorting.gif)
+ 
 2. Second tab is used to filter beer by its alcoholic content in increasing or decreasing order (Set sorting order by ABV) ABV stands for Alcohol y Volume
 3. Filter Tab is used to  filter beer by beer style which are available in data
-4. [Data API](http://starlord.hackerearth.com/beercraft)
-5. Sample Data 
+
+ ![Alt Text](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/filter.gif)
+
+4. Search functionality is implemented on beer name as user type a character it starts suggesting results 
+
+![Alt Text](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/search.gif)
+ 
+5. [Data API](http://starlord.hackerearth.com/beercraft)
+6. Sample Data 
 ```
 [
    {
@@ -129,3 +139,5 @@ Developed this app in Thoughtworks hackathon
       "ounces":12.0
    }
    ]
+   ``` 
+7. [APK](https://github.com/GuptaRaghav/ThoughtworksChallenge/blob/master/search.gif)
